@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".boi-feedback-icon").click((function(){$(".boi-feedback-icon").not($(this)).addClass("boi-feedback-grey"),$(this).removeClass("boi-feedback-grey")}))}));
